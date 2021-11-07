@@ -1,0 +1,12 @@
+.ui-dialog-titlebar-close,.ui-dialog-titlebar-close::after{
+    display: none;
+    
+}
+.ui-dialog-titlebar>span{
+    text-align: right;
+    direction: rtl;
+    padding: 0px;
+}
+.ui-widget-content{
+    direction: rtl;
+}
